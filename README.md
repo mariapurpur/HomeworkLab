@@ -32,6 +32,7 @@ sudo photorec
 
 ## Источники
 
-- [Wondershare RecoverIt](https://recoverit.wondershare.com.ru/harddrive-recovery/how-to-recover-deleted-files-in-linux.html)
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_RU)
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec_RU)
 - [Инструкция по работе с файлами](https://selectel.ru/blog/tutorials/files-and-directories-in-linux/)
 - [Сайт, где можно найти ответ на любой вопрос](https://stackoverflow.com)
